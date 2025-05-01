@@ -1,0 +1,16 @@
+{
+    "name": "k2-sa-shim",
+    "version": "1.0.0",
+    "title": "Krastorio 2 - DLC Features",
+    "author": "aurelium",
+    "description": "Adds Mech Armor to the higher-tier Krastorio 2 power armor, and stacking to superior inserters and loaders. Requires Space Age to be purchased.",
+    "dependencies": [
+        "base",
+        "Krastorio2",
+        "stack-inserters",
+        "! space-age",
+        "! mech-armor"
+    ],
+    "factorio_version": "2.0",
+    "space_travel_required": true
+}
